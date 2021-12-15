@@ -10,7 +10,8 @@ class MyApp extends StatelessWidget{
           title: const Text ("Welcome to flutter"),
         ),
         body:const Center(
-          child:Text("hlo wrld"),
+          child:Text("hello world"),
+          child:Text("Here I come"),
         ),
       ),
     );
