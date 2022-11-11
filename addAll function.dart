@@ -1,8 +1,8 @@
 void main()
 {
-List hello=["Asian","Indian","special","charming"];
-List hey=["calm","strong","aeronautical","engineer","lavender haze"];
-List hi=["loml","fashionable","amiable","leo","open book"];
+List hello=["A","I","s","c"];
+List hey=["c","s","a","e"," haze"];
+List hi=["ll","f","a","l","o"];
 hello.addAll(hey);
 hi.addAll(hello);
 print(hi);
